@@ -27,7 +27,7 @@
 
 ## SQL 代码
 
-```
+```sql
 SELECT
     v.customer_id,
     COUNT(*) AS count_no_trans
