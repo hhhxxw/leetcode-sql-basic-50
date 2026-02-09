@@ -38,7 +38,7 @@
 
 # SQL代码
 
-```
+```sql
 SELECT person_name
 FROM (
     SELECT person_name, 

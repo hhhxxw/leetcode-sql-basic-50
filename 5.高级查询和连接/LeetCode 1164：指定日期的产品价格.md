@@ -31,7 +31,7 @@
 
 # SQL代码
 
-```
+```sql
 -- 1) 先找到每个 product 在指定日期之前(含当天)的最后一次改价日期
 WITH last_change AS (
     SELECT
